@@ -4,7 +4,7 @@
 
 ### 📊 Interactive Business Intelligence Dashboard using Power BI
 
-<img src="assets/banner.png" width="100%" alt="Amazon Dashboard Banner">
+<img src="assets/amazon.jpg" width="100%" alt="Amazon Dashboard Banner">
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-0176D3?style=for-the-badge)
@@ -135,13 +135,13 @@ It demonstrates end-to-end Business Intelligence skills including:
 
 ## Executive Dashboard
 
-<img src="screenshots/page1.png" width="100%">
+<img src="screenshots/page 1.png" width="100%">
 
 ---
 
 ## Sales Analysis
 
-<img src="screenshots/page2.png" width="100%">
+<img src="screenshots/page 2.png" width="100%">
 
 ---
 
@@ -153,19 +153,19 @@ It demonstrates end-to-end Business Intelligence skills including:
 
 ## Product Analysis
 
-<img src="screenshots/page4.png" width="100%">
+<img src="screenshots/page 4.png" width="100%">
 
 ---
 
 ## Shipping Analysis
 
-<img src="screenshots/page5.png" width="100%">
+<img src="screenshots/page 5.png" width="100%">
 
 ---
 
 ## Executive Insights
 
-<img src="screenshots/page6.png" width="100%">
+<img src="screenshots/page 6.png" width="100%">
 
 ---
 
