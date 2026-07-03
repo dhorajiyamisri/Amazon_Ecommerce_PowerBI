@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/ amazon logo.jpg" width="140" alt="Amazon Logo">
+<img src="assets/amazon logo.jpg" width="140" alt="Amazon Logo">
 
 # 🛒 Amazon E-Commerce Analytics Dashboard
 
