@@ -24,6 +24,13 @@
 
 ---
 
+<div align="center">
+
+# 🪟 Project Overview
+
+*Transforming Amazon Sales Data into Actionable Business Insights*
+
+</div>
 # 📌 Project Overview
 
 This project presents a **professional multi-page Power BI dashboard** built to analyze Amazon E-Commerce sales performance. It transforms raw transactional data into interactive business insights, helping decision-makers monitor sales, profitability, customer behavior, product performance, shipping efficiency, and executive-level KPIs.
