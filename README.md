@@ -6,15 +6,6 @@
 
 ### 📊 Interactive Business Intelligence Dashboard using Power BI
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/🛒_Power_BI-F2C811?style=flat">
-
-<img src="https://img.shields.io/badge/📊_DAX-38BDF8?style=flat">
-
-<img src="https://img.shields.io/badge/⚡_Power_Query-22C55E?style=flat">
-
-<img src="https://img.shields.io/badge/📈_Data_Analytics-8B5CF6?style=flat">
 
 </div>
 
@@ -24,7 +15,17 @@
 <img src="assets/amazon.jpg" width="80%" alt="Amazon Dashboard Banner">
 </p>
 
----
+---<div align="center">
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black">
+
+<img src="https://img.shields.io/badge/DAX-38BDF8?style=flat&logo=microsoft&logoColor=white">
+
+<img src="https://img.shields.io/badge/Power%20Query-22C55E?style=flat&logo=microsoft&logoColor=white">
+
+<img src="https://img.shields.io/badge/Data%20Analytics-8B5CF6?style=flat&logo=googleanalytics&logoColor=white">
+
+</div>
 
 <div align="center">
 
