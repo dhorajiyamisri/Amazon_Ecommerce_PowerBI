@@ -6,14 +6,17 @@
 
 ### 📊 Interactive Business Intelligence Dashboard using Power BI
 
-<p>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
-<img src="https://img.shields.io/badge/DAX-0176D3?style=for-the-badge">
-<img src="https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge">
-<img src="https://img.shields.io/badge/Data%20Analytics-FF6F00?style=for-the-badge">
-<img src="https://img.shields.io/badge/Interactive-Dashboard-00C853?style=for-the-badge">
-</p>
+<p align="center">
 
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/DAX-0EA5E9?style=flat&logo=microsoft&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Power%20Query-22C55E?style=flat&logo=microsoft&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Data%20Analytics-8B5CF6?style=flat&logo=googleanalytics&logoColor=white"/>
+
+</p>
 </div>
 
 ---
