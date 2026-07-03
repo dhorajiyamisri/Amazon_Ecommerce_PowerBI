@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/amazon logo.jpg" width="140" alt="Amazon Logo">
+<img src="assets/amazon logo.jpg" width="80" alt="Amazon Logo">
 
 # 🛒 Amazon E-Commerce Analytics Dashboard
 
@@ -19,7 +19,7 @@
 ---
 
 <p align="center">
-<img src="assets/amazon.jpg" width="100%" alt="Amazon Dashboard Banner">
+<img src="assets/amazon.jpg" width="80%" alt="Amazon Dashboard Banner">
 </p>
 
 ---
@@ -854,28 +854,6 @@ The next section includes installation steps, repository structure, future impro
 
 </div>
 
-# 📥 Installation Guide
-
-Follow the steps below to explore this project on your local machine.
-
-### 1️⃣ Clone the Repository
-git clone https://github.com/YOUR_USERNAME/Amazon-Ecommerce-Dashboard.git
-
-
-### 2️⃣ Open the Project
-
-Navigate to the project folder and open the following file in **Microsoft Power BI Desktop**.
-
-Amazon_Ecommerce.pbix
-
-### 3️⃣ Refresh the Dataset
-
-Click **Home ➜ Refresh** to load the latest dataset (if required).
-
-### 4️⃣ Explore the Dashboard
-
-Navigate through all report pages using the page tabs.
-
 # 📂 Repository Structure
 
 ```text
@@ -937,7 +915,7 @@ I'm passionate about **Data Analytics, Power BI, Data Science, AI & Machine Lear
 
 ## 💙 Thanks for Visiting
 
-<img src="assets/logo.jpg" width="80">
+<img src="assets/amazon icon.jpg" width="80">
 
 ### ⭐ Don't forget to star this repository if you found it helpful!
 
